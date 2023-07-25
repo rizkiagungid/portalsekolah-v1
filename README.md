@@ -1,3 +1,4 @@
+![Deskripsi Gambar](ss/Screenshot(2263).png)
 Portal Sekolah Versi 1
 Portal Sekolah Versi 1 adalah platform inovatif yang dirancang khusus untuk memfasilitasi proyek-proyek kolaboratif di lingkungan sekolah. Portal ini mengintegrasikan layanan dan fitur dari GitHub, yang merupakan platform pengelolaan proyek dan kolaborasi berbasis web, dengan fokus pada kebutuhan dan kegiatan pendidikan di lingkungan sekolah.
 
